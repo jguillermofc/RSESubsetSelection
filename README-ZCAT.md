@@ -146,3 +146,4 @@ These problems allow researchers to test **scalability**, **convergence**, and *
 
 ## 🔗 Reference
 ZCAT is a scalable benchmark suite for evaluating evolutionary and metaheuristic algorithms in multi-objective optimization under different complexities.
+[https://doi.org/10.1016/j.swevo.2023.101350]
