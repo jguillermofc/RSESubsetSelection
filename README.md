@@ -1,5 +1,5 @@
-# RSEsubset_selection
-Repository for the IEEE TEVC Paper "Fast High-Diversity Subset Selection for Multiobjective Optimization by Riesz s-Energy".
+# Fast High-Diversity Subset Selection for Multiobjective Optimization by Riesz s-Energy
+## Repository for the IEEE TEVC Paper "Fast High-Diversity Subset Selection for Multiobjective Optimization by Riesz s-Energy".
 
 # Available Greedy Algorithms for Pair-Potential Energy-Based Subset Selection
 
